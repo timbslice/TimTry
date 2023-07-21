@@ -1,3 +1,5 @@
 streamlit
 plost 
+seaborn
+matplotlib
 
