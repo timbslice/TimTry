@@ -9,7 +9,6 @@ import pandas as pd
 import seaborn as sns
 import streamlit as st
 
-st.set_page_config(page_title='MOE Dashboard', page_icon=':bar_chart')
 
 # Load your data into a pandas DataFrame named data
 data = pd.read_csv(r"C:\Users\Emily\Downloads\Lab's IOD\Education Indicators 2014.csv")
